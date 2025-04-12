@@ -23,12 +23,41 @@ By combining Islamic financial principles with smart contracts and AI-enhanced i
 
 ---
 
-## 🛠 Technologies Used
-- *Frontend*: Figma prototype (link attached)
-- *Blockchain*: Ethereum Smart Contracts
-- *FinTech Stack*: Wallet integration, NFT-based certificates, real-time payments
-- *AI*: Allocation suggestions and impact prediction (planned)
-  
+## 🌟 Key Features
+
+### 🧾 Zakat Payment
+•⁠  ⁠Pay various types of zakat (e.g., Zakat al-Mal, Zakat Pendapatan)
+•⁠  ⁠Smart contract-powered payments ensure *transparency* and *traceability*
+•⁠  ⁠View blockchain transaction info: hashes, timestamps, and contract addresses
+•⁠  ⁠Download official receipts and track distribution history
+
+### 📈 Wakaf Investment
+•⁠  ⁠Invest in verified Wakaf projects (e.g., schools, solar energy, community aid)
+•⁠  ⁠Blockchain-based *impact tracking* with real-time updates and income reports
+•⁠  ⁠NFT-style certificates for contributions
+•⁠  ⁠Shariah-compliant project transparency (e.g., teacher salaries, construction updates)
+
+### 🔗 Blockchain & Smart Contracts
+•⁠  ⁠All transactions recorded on *Ethereum* network
+•⁠  ⁠Wallet integration (MetaMask, Coinbase, Electrum)
+•⁠  ⁠Automated distribution of Wakaf earnings via smart contracts
+•⁠  ⁠Tamper-proof and auditable donation records
+
+### 📊 Analytics & Reports
+•⁠  ⁠View donation efficiency, AI-based allocation accuracy, and region-wise impact
+•⁠  ⁠Generate tax/zakat reports in PDF
+•⁠  ⁠Timeline visualizations for donation flow and impact
+
+---
+## 🛠️ Technologies Used
+
+•⁠  ⁠*Polygon PoS*: Scalable, cost-effective blockchain for fast and secure transactions.
+•⁠  ⁠*Smart Contracts (Solidity)*: Automates zakat calculations, ensures donor eligibility, and logs transactions on-chain.
+•⁠  ⁠*Chainlink Oracles*: Fetches off-chain data for donor verification, halal income validation, and recipient screening.
+•⁠  ⁠*XGBoost*: AI model for recipient scoring, prioritizing those most in need.
+•⁠  ⁠*FastAPI*: Connects machine learning and blockchain logic in the backend.
+•⁠  ⁠*React & React Native*: Seamless development for both web and mobile platforms with a unified codeba
+
 ---
 
 ## 🔐 Security & Compliance
